@@ -1,0 +1,19 @@
+{
+  "name": "webbtj-nster-vningar",
+  "version": "1.0.0",
+  "description": "testing Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dodisbeaver/Webbtj-nster-vningar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dodisbeaver/Webbtj-nster-vningar/issues"
+  },
+  "homepage": "https://github.com/Dodisbeaver/Webbtj-nster-vningar#readme"
+}
