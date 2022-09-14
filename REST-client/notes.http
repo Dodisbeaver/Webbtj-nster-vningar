@@ -1,7 +1,7 @@
-@notesURL = https://localhost:3030
+@notesURL = http://localhost:3030
 
 GET {{notesURL}}/
 
 ###
 
-GET {{notesURL}}/notes/
+GET {{notesURL}}/notes/1
